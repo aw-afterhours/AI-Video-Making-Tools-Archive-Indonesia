@@ -1,0 +1,43 @@
+# DESHIMMER
+
+Kategori:
+AI Audio / Audio Processing / Open Source
+
+Pembuat:
+TheApeMachine
+
+Repository asli:
+https://github.com/TheApeMachine/deshimmer
+
+## TENTANG PROYEK
+
+Deshimmer adalah proyek open-source untuk membantu mengurangi berbagai artefak audio yang dapat muncul pada musik yang dibuat menggunakan AI.
+
+Proyek ini berfokus pada analisis dan pemrosesan audio, termasuk pengurangan suara atau karakteristik tertentu seperti shimmer, whistle, dan efek "swish" pada frekuensi tinggi.
+
+## KENAPA MENARIK?
+
+Deshimmer menarik karena tidak hanya menggunakan filter audio sederhana.
+
+Repository ini memiliki sistem pemrosesan audio bertahap, analisis spektrum, optimasi parameter otomatis, antarmuka berbasis web, serta plugin audio native untuk penggunaan secara real-time.
+
+## COCOK UNTUK
+
+* Pengguna musik AI
+* Eksperimen audio processing
+* Developer yang tertarik dengan DSP
+* Orang yang ingin mempelajari pemrosesan audio open-source
+* Eksperimen dengan hasil audio dari generator musik AI
+
+## SUMBER ASLI
+
+Repository GitHub:
+https://github.com/TheApeMachine/deshimmer
+
+## CREDIT
+
+Proyek asli dibuat dan dikembangkan oleh TheApeMachine.
+
+File ini hanya merupakan ringkasan dan referensi dalam Bahasa Indonesia.
+
+Kode, aset, dokumentasi, dan hak atas proyek tetap berada pada repository dan pembuat aslinya.
