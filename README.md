@@ -41,8 +41,6 @@ Proyek yang dikurasi dapat mencakup berbagai jenis tools, misalnya:
 * Open-source web apps
 * Tools lain yang masih berkaitan dengan pembuatan atau pemrosesan media
 
-Contohnya, terdapat proyek seperti **Deshimmer**, yang berfokus pada pengurangan artefak audio dari musik yang dibuat menggunakan AI, serta **Suno2CD**, yang membantu mengonversi audio Suno ke format WAV 44,1 kHz 16-bit langsung melalui browser.
-
 ---
 
 ## Cara Menggunakan Archive Ini
