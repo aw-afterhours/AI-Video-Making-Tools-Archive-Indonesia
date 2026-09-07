@@ -14,6 +14,6 @@ Repository ini **tidak menyalin atau mengambil alih proyek-proyek tersebut**. Ko
 Di sini, saya hanya memperkenalkan proyeknya, memberikan sedikit konteks dalam Bahasa Indonesia, dan mengarahkan kamu ke sumber aslinya. Kalau pemiliknya ingin link mereka dihapus, tolong contact
 saya dan langsung akan saya hapus :)
 
-> **Temukan proyeknya di sini, lalu lanjutkan ke pembuat aslinya.**
+> **Temukan proyeknya di repository ini melalui item-item yang ada di list, lalu salin tautannya dan lanjutkan ke halaman pembuat aslinya.**
 
 [Di update, tapi untuk sekarang sedang berhenti]
